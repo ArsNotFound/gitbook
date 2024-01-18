@@ -94,22 +94,7 @@ GNS3 поддерживает как эмуляцию, так и симуляц�
 
 Устройства сгруппированы в следующие группы:
 
-<table>
-    <thead>
-        <tr>
-            <th>Кнопка</th>
-            <th>Название</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td><img src=".gitbook/assets/routers.png" alt=""></td><td>Роутеры</td></tr>
-        <tr><td><img src=".gitbook/assets/switches (1).png" alt=""></td><td>Коммутаторы и хабы</td></tr>
-        <tr><td><img src=".gitbook/assets/end_devices.png" alt=""></td><td>Конечные устройства (ПК, Облако и т.д.)</td></tr>
-        <tr><td><img src=".gitbook/assets/security_devices.png" alt=""></td><td>Устройства безопасности</td></tr>
-        <tr><td><img src=".gitbook/assets/all_devices.png" alt=""></td><td>Все устройства</td></tr>
-        <tr><td><img src=".gitbook/assets/add_link.png" alt=""></td><td>Добавить соединение</td></tr>
-    </tbody>
-</table>
+<table><thead><tr><th width="100">Кнопка</th><th>Название</th></tr></thead><tbody><tr><td><img src=".gitbook/assets/routers.png" alt=""></td><td>Роутеры</td></tr><tr><td><img src=".gitbook/assets/switches (1).png" alt=""></td><td>Коммутаторы и хабы</td></tr><tr><td><img src=".gitbook/assets/end_devices.png" alt=""></td><td>Конечные устройства (ПК, Облако и т.д.)</td></tr><tr><td><img src=".gitbook/assets/security_devices.png" alt=""></td><td>Устройства безопасности</td></tr><tr><td><img src=".gitbook/assets/all_devices.png" alt=""></td><td>Все устройства</td></tr><tr><td><img src=".gitbook/assets/add_link.png" alt=""></td><td>Добавить соединение</td></tr></tbody></table>
 
 #### **Информация о топологии**
 
